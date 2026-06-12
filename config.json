@@ -78,6 +78,25 @@
           "type": "text"
         }
       ]
+    },
+    {
+      "id": "sqlite-fastapi",
+      "title": "SQLite-backed FastAPI API",
+      "description": "Build a persistent REST API with FastAPI and SQLite.",
+      "path": "assignments/sqlite-fastapi",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
